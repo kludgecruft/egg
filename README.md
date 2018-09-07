@@ -1,5 +1,5 @@
 # egg
-Remake of the classic LCD game.
+## Remake of the classic LCD game.
 
 Test program to test the functionality of my simple 2D game engine.
 
